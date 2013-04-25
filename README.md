@@ -1,4 +1,4 @@
 google-code-jam
 ===============
 
-My codes for google code jam
+My solutions for google code jam
